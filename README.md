@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/melquawest/Product-Preview-Card-Component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/melquawest/Product-Preview-Card-Component.git)
+- Live Site URL: [Product Preview Card Component](https://melquawest.github.io/Product-Preview-Card-Component/)
 
 
 ### Built with
